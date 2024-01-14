@@ -1,4 +1,4 @@
-# React + Vite
+# Buscador de Usuarios de Github
 
 Buscador de usuarios de Github
 Pruebalo
